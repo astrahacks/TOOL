@@ -1,6 +1,6 @@
 ```
 git clone https://github.com/astrahacks/TOOL.git
-cd toolss
+cd TOOL
 chmod +x Tool.py
-python Tool.py
+python Tool.pys
 ```
